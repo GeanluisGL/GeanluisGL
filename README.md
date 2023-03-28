@@ -3,13 +3,15 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-<h3 align="center">An enthusiastic backend developer, looking for improve in the area<h3>
+<h3 align="center">An enthusiastic backend developer, looking for improve in the area</h3>
 
-  - 🔭 I’m currently working on .**Net Core for future projects** 
-  - 🌱 I’m currently learning *S.O.L.I.D. Principles, Onion Architecture, CQRS pattern implementation**. 
-  - 👯 I’m looking to collaborate on *any backend technology where I can sharp my skills*
-  - 💬 Ask me about ... - 📫 How to reach me: *geanluislorenzoro@gmail.com* 
-  - ⚡ Fun fact **Be flexible but also be disciplined**
+- 🔭 I’m currently working on **.Net Core for future projects** 
+	
+- 🌱 I’m currently learning **S.O.L.I.D. Principles, Onion Architecture, CQRS pattern implementation**
+- 👨‍💻 All of my projects are available at [https://github.com/GeanluisGL](https://github.com/GeanluisGL)
+- 👯 I’m looking to collaborate on *any backend technology where I can sharp my skills*
+- 📫 How to reach me: *geanluislorenzoro@gmail.com* 
+- ⚡ Fun fact **Be flexible but also be disciplined**
  </br>
  
   <p align="center">
