@@ -9,8 +9,8 @@
 	
 - 🌱 I’m currently learning **S.O.L.I.D. Principles, Onion Architecture, CQRS pattern implementation**
 - 👨‍💻 All of my projects are available at [https://github.com/GeanluisGL](https://github.com/GeanluisGL)
-- 👯 I’m looking to collaborate on *any backend technology where I can sharp my skills*
-- 📫 How to reach me: *geanluislorenzoro@gmail.com* 
+- 👯 I’m looking to collaborate on **any backend technology where I can sharp my skills**
+- 📫 How to reach me: **geanluislorenzoro@gmail.com** 
 - ⚡ Fun fact **Be flexible but also be disciplined**
  </br>
  
@@ -22,7 +22,7 @@
     <p align="left">
      <a href="https://www.instagram.com/yan_on_lvl19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victorvelcid" height="30" width="40" /></a><a href="https://www.linkedin.com/in/geanluis-lorenzo-rodr%C3%ADguez-2337b2152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorvelc" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and IDE's</h3>
+<h3 align="left">Technologies's</h3>
 
 <table>
   <tbody>
@@ -85,7 +85,7 @@
  </tbody>
   </table>
 
-  <h3 align="left">Frontend Tools</h3>
+  <h3 align="left">UX/UI</h3>
   <table><tbody>
       <tr valign="top">
           <td width="12.5%" align="center">
@@ -102,6 +102,6 @@
           </td>
           <td width="12.5%" align="center">
               <span>Filmora</span><br><br><br>
-              <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434">
+              <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/640px-Wondershare_filmora_logo.svg.png">
           </td>
   </tbody></table>
