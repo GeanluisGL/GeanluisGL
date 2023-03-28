@@ -3,13 +3,13 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-<h3 align="center">An enthusiastic backend developer, looking for improve in the area</h3>
+<h3 align="center">An enthusiastic fullstack developer, looking improve in the area</h3>
 
 - 🔭 I’m currently working on **.Net Core for future projects** 
 	
 - 🌱 I’m currently learning **S.O.L.I.D. Principles, Onion Architecture, CQRS pattern implementation**
 - 👨‍💻 All of my projects are available at [https://github.com/GeanluisGL](https://github.com/GeanluisGL)
-- 👯 I’m looking to collaborate on **any backend technology where I can sharp my skills**
+- 👯 I’m looking to collaborate on **any backend or frontend technology where I can sharp my skills**
 - 📫 How to reach me: **geanluislorenzoro@gmail.com** 
 - ⚡ Fun fact **Be flexible but also be disciplined**
  </br>
@@ -88,19 +88,19 @@
   <h3 align="left">UX/UI</h3>
   <table><tbody>
       <tr valign="top">
-          <td width="12.5%" align="center">
+          <td width="25%" align="center">
               <span>Photoshop</span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg">
           </td>
-          <td width="12.5%" align="center">
+          <td width="25%" align="center">
               <span>Ilustrator</span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/adobe-illustrator.svg">
           </td>
-          <td width="12.5%" align="center">
+          <td width="25%" align="center">
               <span>Premiere</span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/adobe-premiere.svg">
           </td>
-          <td width="12.5%" align="center">
+          <td width="25%" align="center">
               <span>Filmora</span><br><br><br>
               <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/640px-Wondershare_filmora_logo.svg.png">
           </td>
