@@ -86,7 +86,8 @@
   </table>
 
   <h3 align="left">UX/UI</h3>
-  <table><tbody>
+  <table valign="center">
+	<tbody>
       <tr valign="top">
           <td width="25%" align="center">
               <span>Photoshop</span><br><br><br>
