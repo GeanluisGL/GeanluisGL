@@ -15,8 +15,9 @@
  </br>
  
   <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeanluisGL&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />||</img><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanluisGL&layout=compact&theme=buefy&hide_border=true" />
-  </p>
+ <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeanluisGL&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />||
+-->  </img><img align="center" src="https://camo.githubusercontent.com/f492591cd9266fe554034a7ded66aa12f535f5ea049514992a1d38e8ea367d6f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4765616e6c756973474c266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" />
+	</p>
 
   <h3 align="left">Connect with me:</h3>
     <p align="left">
