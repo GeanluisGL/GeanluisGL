@@ -5,9 +5,9 @@
 </div>
 <h3 align="center">An enthusiastic fullstack developer, looking improve in the area</h3>
 
-- 🔭 I’m currently working on **Angular for future projects** 
+- 🔭 I’m currently working on **.Net Core for future projects** 
 	
-- 🌱 I’m currently learning **typescript, and the logic behind a project in the framework**
+- 🌱 I’m currently learning **design patterns and architectures in the .Net framework**
 - 👨‍💻 All of my projects are available at [https://github.com/GeanluisGL](https://github.com/GeanluisGL)
 - 👯 I’m looking to collaborate on **any backend or frontend technology where I can sharp my skills**
 - 📫 How to reach me: **geanluislorenzoro@gmail.com** 
