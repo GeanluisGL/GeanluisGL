@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">An enthusiastic developer, looking improve in the area of Data Science</h3>
 
-- 🔭 Beggining in the Data Science Area, hopefully, in some new future, you will be able to see my progress in a future Dashboad** 
+- 🔭 **Beggining in the Data Science Area, hopefully, in some new future, you will be able to see my progress in a future Dashboad** 
 	
 - 🌱 I’m currently learning **design patterns and architectures in the .Net framework**
 - 👨‍💻 All of my projects are available at [https://github.com/GeanluisGL](https://github.com/GeanluisGL)
