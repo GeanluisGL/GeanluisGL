@@ -3,15 +3,16 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-<h3 align="center">An enthusiastic fullstack developer, looking improve in the area</h3>
+<h3 align="center">An enthusiastic developer, looking improve in the area of Data Science</h3>
 
-- 🔭 I’m currently working on **.Net Core for future projects** 
+- 🔭 Beggining in the Data Science Area, hopefully, in some new future, you will be able to see my progress in a future Dashboad** 
 	
 - 🌱 I’m currently learning **design patterns and architectures in the .Net framework**
 - 👨‍💻 All of my projects are available at [https://github.com/GeanluisGL](https://github.com/GeanluisGL)
 - 👯 I’m looking to collaborate on **any backend or frontend technology where I can sharp my skills**
 - 📫 How to reach me: **geanluislorenzoro@gmail.com** 
 - ⚡ Fun fact **Be flexible but also be disciplined**
+  
  </br>
  
   <p align="center">
