@@ -106,6 +106,4 @@ const geanluis = {
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=100&section=footer" width="100%"/>
-
 </div>
-
