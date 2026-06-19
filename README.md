@@ -98,7 +98,7 @@ const geanluis = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GeanluisGL&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views counter" />
+<img src="https://api.visitorbadge.io/api/visitors?path=GeanluisGL&label=Profile%20Views&countColor=%236C63FF&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
