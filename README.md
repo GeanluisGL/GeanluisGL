@@ -39,7 +39,6 @@ const geanluis = {
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
