@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Se ejecuta automáticamente todos los días a medianoche UTC[reference:4]
+  workflow_dispatch:     # Permite ejecutarlo manualmente desde la pestaña "Actions"[reference:5]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write    # Necesario para que la acción pueda subir los archivos[reference:6]
+
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3  # Esta es la acción que crea la animación[reference:7]
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4  # Sube los archivos a una rama 'output'[reference:8]
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
