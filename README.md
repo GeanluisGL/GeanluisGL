@@ -76,8 +76,12 @@ Desarrollador de software enfocado en construir **backends sólidos** e **interf
 <div align="center">
 
 <!-- 🐍 Snake contribution graph — requiere activar el workflow una vez en el repo, te explico abajo -->
-<img src="https://raw.githubusercontent.com/GeanluisGL/GeanluisGL/output/github-contribution-grid-snake.svg" width="100%" alt="Snake contribution graph"/>
-
+<!-- CONTRIBUTIONS SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeanluisGL/GeanluisGL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeanluisGL/GeanluisGL/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/GeanluisGL/GeanluisGL/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <br/>
