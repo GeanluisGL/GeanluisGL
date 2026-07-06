@@ -53,7 +53,7 @@ Actualmente profundizando en **.NET**, **SQL** y buenas prácticas de arquitectu
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
 
 <br/>
 
