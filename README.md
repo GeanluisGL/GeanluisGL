@@ -1,44 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1E293B,100:334155&height=210&section=header&text=Geanluis%20Lorenzo&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Software%20Developer%20%E2%80%94%20Backend%20%7C%20Frontend%20%7C%20Database&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:312E81,100:1E3A8A&height=230&section=header&text=Geanluis%20Lorenzo&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20.NET%20%7C%20SQL%20%7C%20JavaScript&descAlignY=56&descSize=16&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=94A3B8&center=true&vCenter=true&width=620&lines=Construyendo+backends+s%C3%B3lidos+%E2%9A%99%EF%B8%8F;Aprendiendo+.NET+%2C+SQL+y+arquitectura+%F0%9F%93%90;Abierto+a+colaborar+en+proyectos+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=650&lines=Construyendo+backends+s%C3%B3lidos+desde+RD+%F0%9F%87%A9%F0%9F%87%B4;Aprendiendo+arquitectura+de+software+%F0%9F%A7%A9;S%C3%A9+flexible%2C+pero+tambi%C3%A9n+disciplinado." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_República_Dominicana-334155?style=for-the-badge&logoColor=white)
-![Status](https://img.shields.io/badge/💡_Open_to_collaborate-475569?style=for-the-badge&logoColor=white)
-![Focus](https://img.shields.io/badge/🎯_.NET_%7C_SQL_%7C_JS-64748B?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/📍-República_Dominicana-1E1B4B?style=for-the-badge&labelColor=312E81"/>
+<img src="https://img.shields.io/badge/💡-Open_to_collaborate-312E81?style=for-the-badge&labelColor=1E3A8A"/>
+<img src="https://img.shields.io/badge/🎯-.NET_|_SQL_|_JS-1E3A8A?style=for-the-badge&labelColor=1E1B4B"/>
 
 </div>
 
 <br/>
 
-## ✦ Sobre mí
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-<table>
-<tr><td>
+### ✦ Sobre mí
 
 Desarrollador de software enfocado en construir **backends sólidos** e **interfaces limpias**. Me apasiona entender el *por qué* detrás de la arquitectura, no solo escribir código que funcione.
 
-`💬` *"Sé flexible, pero también disciplinado."*
+Actualmente profundizando en **.NET**, **SQL** y buenas prácticas de arquitectura de software, con la meta de dominar patrones de diseño y sistemas escalables.
 
-</td></tr>
+> 💬 *"Sé flexible, pero también disciplinado."*
+
+</td>
+<td width="40%" valign="top">
+
+### ✦ Ruta actual
+
+- 🔹 Estructuras de datos & algoritmos
+- 🔹 Design patterns
+- 🔹 Microservicios & APIs
+- 🔹 Bases de datos relacionales
+- 🔹 Control de versiones con Git
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## ✦ Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,dotnet,cs,mysql&theme=dark" />
+### ✦ Stack tecnológico
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,mysql&theme=dark" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,azure&theme=dark" />
 
 <br/>
 
@@ -48,52 +63,23 @@ Desarrollador de software enfocado en construir **backends sólidos** e **interf
 
 <br/>
 
-## ✦ Ruta de aprendizaje
-
 <div align="center">
 
-| 📊 Lenguajes | 🧱 Arquitectura | 🧰 Herramientas |
-|:---:|:---:|:---:|
-| .NET | Estructuras de datos | Git |
-| SQL | Algoritmos | Microservicios |
-| JavaScript | Design Patterns | API |
+### ✦ Estadísticas
 
-</div>
 
-<br/>
 
-## ✦ GitHub Stats
+<img src="https://streak-stats.demolab.com/?user=GeanluisGL&theme=dark&hide_border=true&background=0D1117&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC"/>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GeanluisGL&show_icons=true&hide_border=true&theme=dark&bg_color=0F172A&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanluisGL&layout=compact&hide_border=true&theme=dark&bg_color=0F172A&title_color=94A3B8&text_color=CBD5E1"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeanluisGL&theme=dark&hide_border=true&background=0F172A&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8"/>
 </div>
 
 <div align="center">
 
-<!-- 🐍 Snake contribution graph — requiere activar el workflow una vez en el repo, te explico abajo -->
-<!-- CONTRIBUTIONS SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeanluisGL/GeanluisGL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeanluisGL/GeanluisGL/output/github-contribution-grid-snake.svg">
   <img alt="Contribution Animation" src="https://raw.githubusercontent.com/GeanluisGL/GeanluisGL/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
-<br/>
-
-## ✦ Conecta conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geanluis-lorenzo-rodr%C3%ADguez-2337b2152/)
-[![Instagram](https://img.shields.io/badge/Instagram-475569?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/20thdecade_yan)
-[![Gmail](https://img.shields.io/badge/Gmail-64748B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1glorenzorodriguez@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeanluisGL)
 
 </div>
 
@@ -101,10 +87,19 @@ Desarrollador de software enfocado en construir **backends sólidos** e **interf
 
 <div align="center">
 
-<img src="https://api.visitorbadge.io/api/visitors?path=GeanluisGL&label=Profile%20Views&countColor=%2364748B&style=for-the-badge" alt="Profile views" />
+### ✦ Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geanluis-lorenzo-rodr%C3%ADguez-2337b2152/)
+[![Instagram](https://img.shields.io/badge/Instagram-312E81?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/20thdecade_yan)
+[![Gmail](https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1glorenzorodriguez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeanluisGL)
+
+<br/>
+
+<img src="https://api.visitorbadge.io/api/visitors?path=GeanluisGL&label=Profile%20Views&countColor=%23818CF8&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:334155,50:1E293B,100:0F172A&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:312E81,100:1E1B4B&height=110&section=footer" width="100%"/>
 
 </div>
