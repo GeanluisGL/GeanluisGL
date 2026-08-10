@@ -101,5 +101,4 @@ Actualmente profundizando en **.NET**, **SQL** y buenas prácticas de arquitectu
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:312E81,100:1E1B4B&height=110&section=footer" width="100%"/>
-
 </div>
