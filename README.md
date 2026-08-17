@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=650&lines=Construyendo+backends+s%C3%B3lidos+desde+RD+%F0%9F%87%A9%F0%9F%87%B4;Aprendiendo+arquitectura+de+software+%F0%9F%A7%A9;S%C3%A9+flexible%2C+pero+tambi%C3%A9n+disciplinado." alt="Typing SVG" />
 </a>
-
 <br/>
 
 <img src="https://img.shields.io/badge/📍-República_Dominicana-1E1B4B?style=for-the-badge&labelColor=312E81"/>
