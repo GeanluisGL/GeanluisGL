@@ -69,7 +69,6 @@ Actualmente profundizando en **.NET**, **SQL** y buenas prácticas de arquitectu
 
 
 <img src="https://streak-stats.demolab.com/?user=GeanluisGL&theme=dark&hide_border=true&background=0D1117&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC"/>
-
 </div>
 
 <div align="center">
